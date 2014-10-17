@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[khz:home|Door43 (khz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-khz|d43-khz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-khz/archive/master.zip|d43-khz.zip]]
+
+**Recent Changes**
+{{changes>ns = khz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/khz|Ethnologue data]]
+
