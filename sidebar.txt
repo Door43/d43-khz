@@ -17,3 +17,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/khz|Ethnologue data]]
 
+
+**Resources**
+
+  * [[khz:obs|Open Bible Stories (khz)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:khz:obs:status}}
